@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#67adcb</color>
+    <color name="colorPrimaryDark">#000080</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="label">#F0FFF0</color>
+    <color name="judul">#2F4F4F</color>
+    <color name="txt">#373A3C</color>
+    <color name="btn">#FFA500</color>
+
+    <color name="colorPrimary1">#b1eaff</color>
+    <color name="colorPrimaryDark1">#000080</color>
+    <color name="colorAccent1">#67adcb</color>
+    <color name="judul1">#2F4F4F</color>
+    <color name="txt1">#F0FFF0</color>
+    <color name="btn1">#009ed6</color>
+</resources>

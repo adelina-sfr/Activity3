@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Praktikum1</string>
+    <string name="labelapp">LOGIN USER</string>
+    <string name="un">Username</string>
+    <string name="ps">Password</string>
+    <string name="btn">Sign-In</string>
+    <string name="hsl">Ini tampilan Hasil</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="masukkan_username">Masukkan Username</string>
+
+
+    <string name="labelapp1">Pendaftaran</string>
+    <string name="un1">Nama</string>
+    <string name="ps1">Email</string>
+    <string name="tlp">Telpon</string>
+    <string name="btn1">Daftar</string>
+    <string name="hsl1">Ini tampilan Hasil</string>
+    <string name="masukkan_nomer_Telfon">Masukkan Nomer Telfon</string>
+    <string name="masukkan_Email">Masukkan Email</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+
+    <string name="Txt2">Tampilan Hasil Menu 2</string>
+    <string name="Txt3">Tampilan Hasil Menu 3</string>
+</resources>
